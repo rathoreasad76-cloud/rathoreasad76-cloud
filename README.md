@@ -1,6 +1,6 @@
 ### Hi, I'm Asad Ali Rathore
 
-Senior Software Engineer / Backend Architect at **Sky News Arabia**. 17 years building backend systems in Java — currently focused on Spring Boot microservices, event-driven architecture, and AWS.
+Senior Software Engineer / Backend Architect:  17 years building backend systems in Java - currently focused on Spring Boot microservices, event-driven architecture, and AWS.
 
 - Background spans payments (i2c Inc — PCI-DSS SaaS platform for Western Union, Discover, MetaBank), enterprise integrations (Dubai Customs SOAP/JAX-RPC), and large-scale media backend (5.1M+ monthly users)
 - Java 17/21, Spring Boot, Spring Cloud, Spring Security, Hibernate/JPA
