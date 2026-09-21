@@ -12,6 +12,7 @@ Some things I've built outside of work:
 - [event-fanout-notifications](https://github.com/rathoreasad76-cloud/event-fanout-notifications) — one SNS topic fanning out to multiple filtered SQS subscriptions, a dead-letter queue with a redrive policy, and idempotent consumers
 - [java-concurrency-demo](https://github.com/rathoreasad76-cloud/java-concurrency-demo) — worked examples of thread pools, Future/CompletableFuture, ThreadLocal, and virtual threads, each with a guide and interview-style questions
 - [lru-cache](https://github.com/rathoreasad76-cloud/lru-cache) — an LRU cache built on LinkedHashMap, with tests
+- [AI Content Model Builder](https://partyrock.aws/u/asadrathor/X_K6xF-Mq/AI-Content-Model-Builder) — an LLM-agent tool (AWS PartyRock) that generates normalized database schemas, search indexing configuration, and Spring Boot domain classes directly from business and technical requirements
 
 - [LinkedIn](https://linkedin.com/in/asad-ali-rathore)
 
